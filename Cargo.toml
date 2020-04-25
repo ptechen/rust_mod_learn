@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "mod_learn1",
+    "mod_learn2",
+    "mod_learn3",
+    "mod_learn4"
+]
